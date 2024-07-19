@@ -1,0 +1,66 @@
+@import url("https://fonts.googleapis.com/css2?family=Alata&display=swap");
+
+/* font-family: "Alata", sans-serif; */
+
+@import url("https://fonts.googleapis.com/css2?family=Alata&family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap");
+
+/* font-family: "Josefin Sans", sans-serif; */
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Alata", sans-serif;
+}
+
+.header {
+  background: url(./assets/images/desktop/image-hero.jpg) no-repeat center
+    center/cover;
+}
+
+.sans-font {
+  font-family: "Josefin Sans", sans-serif;
+}
+
+.grid1 {
+  background: url(./assets/images/desktop/image-deep-earth.jpg) no-repeat center
+    center/cover;
+}
+.grid2 {
+  background: url(./assets/images/desktop/image-night-arcade.jpg) no-repeat
+    center center/cover;
+  box-shadow: inset 0px 0px 60px -10px rgba(0, 0, 0, 0.7);
+}
+.grid3 {
+  background: url(./assets/images/desktop/image-soccer-team.jpg) no-repeat
+    center center/cover;
+  box-shadow: inset 0px 0px 60px -10px rgba(0, 0, 0, 0.7);
+}
+.grid4 {
+  background: url(./assets/images/desktop/image-grid.jpg) no-repeat center
+    center/cover;
+  box-shadow: inset 0px 0px 60px -10px rgba(0, 0, 0, 0.7);
+}
+.grid5 {
+  background: url(./assets/images/desktop/image-from-above.jpg) no-repeat center
+    center/cover;
+  box-shadow: inset 0px 0px 60px -10px rgba(0, 0, 0, 0.7);
+}
+.grid6 {
+  background: url(./assets/images/desktop/image-pocket-borealis.jpg) no-repeat
+    center center/cover;
+  box-shadow: inset 0px 0px 60px -10px rgba(0, 0, 0, 0.7);
+}
+.grid7 {
+  background: url(./assets/images/desktop/image-curiosity.jpg) no-repeat center
+    center/cover;
+  box-shadow: inset 0px 0px 60px -10px rgba(0, 0, 0, 0.7);
+}
+.grid8 {
+  background: url(./assets/images/desktop/image-fisheye.jpg) no-repeat center
+    center/cover;
+  box-shadow: inset 0px 0px 60px -10px rgba(0, 0, 0, 0.7);
+}
